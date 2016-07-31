@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Maarten Machiels - Developer - @maartenmachiels
+
+# THANKS
+
+    John Rivs
+    Kenny Vaes
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    PHP, John Rivs' Wunderlist API Wrapper

@@ -1,0 +1,23 @@
+{
+    "name": "johnrivs/wunderlist",
+    "description": "SDK for the latest Wunderlist API version",
+    "keywords": ["wunderlist", "laravel", "api"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "John Rivs",
+        "email": "johnrivs21@gmail.com"
+    }],
+    "require": {
+        "guzzlehttp/guzzle": "~5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "JohnRivs\\Wunderlist\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require-dev": {
+        "apigen/apigen": "^4.1"
+    }
+}
