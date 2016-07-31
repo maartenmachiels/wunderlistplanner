@@ -2,10 +2,10 @@
 require_once __DIR__.'/vendor/autoload.php';
 use JohnRivs\Wunderlist\Wunderlist;
 
-// Authenticate
-$clientId     = '03517eaee52c2f36d9f3';
-$clientSecret = 'cb7e4730fc7ea21c7008be5427344ef4ccf8f84326994a90cda28372c9ad';
-$accessToken  = 'fe32b417dabb5820e600d25a8d89342a5644246ae470440a1d272f3208b5';
+// Enter your Wunderlist APP credentials here
+$clientId     = 'xxx';
+$clientSecret = 'xxx';
+$accessToken  = 'xxx';
 
 // Initialize & Roll it...
 $w = new Wunderlist($clientId, $clientSecret, $accessToken);
